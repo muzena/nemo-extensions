@@ -1,0 +1,7 @@
+  * 3.2.0
+  * Port to Python 3
+  * Improve performance
+  * Reduce icons' file size
+  * Rename package (prepend "nemo-") to fit the nemo-extensions naming scheme
+  * Include this project to the nemo-extensions repository
+  * Update debian build files
